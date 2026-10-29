@@ -4,14 +4,11 @@
 # Test case 1
 numbers = [2, 3, 2, 4, 3]
 result = []
-
 for number in numbers:
     if number not in result:
         result.append(number)
 
 print("Test case 1:", result)  # Expected: [2, 3, 4]
-
-
 # Test case 2: No duplicates
 numbers = [1, 2, 3, 4]
 result = []
