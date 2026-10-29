@@ -1,7 +1,6 @@
 # Task A: Remove duplicates from a list
 # Keep the original order.
 # Beginner-friendly version using a loop and an empty list.
-
 # Test case 1
 numbers = [2, 3, 2, 4, 3]
 result = []
