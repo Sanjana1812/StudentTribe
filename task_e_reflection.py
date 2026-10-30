@@ -3,16 +3,12 @@
 # Name: Sanjana
 # Date: 27 October 2026
 # Day: 2
-
-
 # 1. My approach:
 # For Task A, I used a loop to check each number and add it to the
 # result list only if it was not already present.
 # For Task B, I used nested loops to calculate the sum of each window.
 # For Task C, I used a found variable and break to print only one result.
 # For Task D, I practised using lists, sets, and dictionaries.
-
-
 # 2. Test cases:
 
 # Task A:
